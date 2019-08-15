@@ -7,9 +7,10 @@ Fornecer aos alunos os conhecimentos básicos dos principais tópicos de program
 ## FAQ
 ### O que é Python?
 Python é uma linguagem de programação criada em 1991. Os objetivos do projeto da linguagem eram: produtividade e legibilidade. Em outras palavras, Python é uma linguagem que foi criada para produzir código bom e fácil de manter de maneira rápida. 
+
 Além disso, a linguagem já inclui estruturas de dados básicas, como tuplas, listas e dicionários, disponíveis para facilitar o desenvolvimento de algoritmos mais complexos. Python é uma linguagem livre e multiplataforma. Isso significa que os programas escritos em uma plataforma serão executados sem nenhum problema na maioria das plataformas existentes sem nenhuma modificação. (saiba mais em http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
 
-### por que Python?
+### Por que Python?
 Python é atualmente uma das linguagens mais populares no mundo, com uma comunidade ativa e vibrante, espalhada por todos os continentes. Dada o seu alto poder de expressividade, a liguagem tem conquistado uma grande popularidade entre a comunidade científica, tornando-se um conhecimento quase que obrigatório nas mais variadas áreas do conhecimento, desde a engenharia a biologia.
 
 ## Instalando o Python
