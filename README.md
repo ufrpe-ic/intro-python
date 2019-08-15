@@ -17,17 +17,17 @@ Python é atualmente uma das linguagens mais populares no mundo, com uma comunid
 É possível fazer programação com Python no seu próprio computador, mas primeiro você precisa instalar o interpretador da linguagem. Embora seja possível instalar o Python a partir de sua página oficial (https://www.python.org/), recomendamos usar o Anaconda (https://www.anaconda.com/download/), que é uma distribuição de código aberto das linguagens de programação Python e R para processamento de dados, análise preditiva e computação científica em larga escala, que visa simplificar o gerenciamento de e instalação de pacotes. Em suma, facilita muito a vida ao instalar novas ferramentas no seu Python.
 
 ## Conteúdo do curso
-00_Intro.ipynb
-01_IntroPython.ipynb
-02_Comparações.ipynb
-03_Condicionais.ipynb
-04_Listas.ipynb
-05_ListasLoops.ipynb
-06_Tuplas.ipynb
-07_Dicionarios.ipynb
-08_Funcoes.ipynb
-09_Arquivos.ipynb
-10_LoopWhile.ipynb
-11_PraticaArquivos.ipynb
-12_Numpy.ipynb
-13_Matplotlib.ipynb
+[Introdução a Jupyter Notebooks](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/00_Intro.ipynb)
+[Noções básicas de python](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/01_IntroPython.ipynb)
+[Comparaçes](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/02_Comparações.ipynb)
+[Estruturas condicionais](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/03_Condicionais.ipynb)
+[Listas](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/04_Listas.ipynb)
+[Loops - for](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/05_ListasLoops.ipynb)
+[Tuplas](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/06_Tuplas.ipynb)
+[Dicionários](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/07_Dicionarios.ipynb)
+[Funções](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/08_Funcoes.ipynb)
+[Arquivos](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/09_Arquivos.ipynb)
+[Loops - while](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/10_LoopWhile.ipynb)
+[Prática: arquivos](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/11_PraticaArquivos.ipynb)
+[Numpy](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/12_Numpy.ipynb)
+[Plotagem de gráficos](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/13_Matplotlib.ipynb)
