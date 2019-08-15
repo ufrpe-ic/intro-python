@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ic/intro-python/master)
+
 # Introdução a Programação (UFRPE)
 Material de apoio para os cursos de Introdução a Programação com Python na UFRPE.
 
